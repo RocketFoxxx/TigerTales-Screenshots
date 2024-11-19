@@ -1,2 +1,2 @@
 # TigerTales-Screenshots
-Screenshots to show how TigerTales looks like, because it's local project. Made in VSCode with HTML,CSS and JS
+This repository includes screenshots to showcase the design and functionality of the TigerTales project, as it's hosted locally. The project was developed using HTML, CSS, and JavaScript in VSCode to create an interactive, visually engaging web experience.
